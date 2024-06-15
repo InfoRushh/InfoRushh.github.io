@@ -3,17 +3,29 @@ layout: home
 title: Home
 ---
 
-# About Me
+# InfoRush
 
-## Career Summary
+## Executive Summary
 <br>
 <div align = "justify">
   
-I am a Cyber Security graduate with a master's degree in Cyber Security, actively seeking opportunities to further my professional growth in the industry. With a strong engineering background, technical expertise, research experience, and a proven track record in customer service and sales, I bring a unique combination of technical cyber security skills and exceptional interpersonal abilities. I excel at effectively communicating complex technical concepts to a diverse audience, allowing me to build strong relationships with clients or stakeholders. Adaptable to fast-paced environments, I leverage my technical expertise and customer-centric approach to drive successful outcomes. 
-<br> <br>
-Currently pursuing a PhD in Cyber Security at the University of Plymouth, my research explores the viability of an IDS using low-level performance counters in IoT devices. I have also completed a side project investigating the diversity between Snort and Suricata’s rules and functionality. Alongside my academic pursuits, I have gained industry experience as a Data Analyst, contributing to the analysis of large datasets for autonomous vehicle models, and as a Business Intelligence Intern, working on data visualization and integration projects. 
-<br> <br>
-In my personal projects, I have implemented a self-hosted VPN solution in the AWS and Oracle Cloud environments, ensuring secure remote access and data encryption. Additionally, I have built a home malware analysis lab to enhance my skills in malware detection and analysis. With a passion for cyber security and a dedication to continuous learning, I am ready to make a meaningful contribution to the industry and drive innovation in protecting digital assets.
+1. A Source Curated Social Platform
+A source curated social platform designed exclusively for:
+
+Publishers
+News channels
+Cable channels
+Journalists
+
+This platform allows these professionals to post social media-like updates and short-form video content without the need to compete with other niches. By creating a dedicated space for news-related content, it ensures that information remains relevant, focused, and accessible to those who seek it.
+
+2. Bridging the Engagement Gap with Young Audiences
+Our platform aims to bridge the gap between critical world happenings and the ways in which young audiences engage with news content. By leveraging short-form video formats and interactive features, we make news more appealing, relatable, and accessible to younger generations. This approach not only keeps them informed but also encourages a deeper understanding and engagement with current events.
+
+
+
+
+
 
 </div>
 
