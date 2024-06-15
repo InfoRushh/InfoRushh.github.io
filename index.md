@@ -17,7 +17,7 @@ Our platform aims to bridge the gap between critical world happenings and the wa
 
 
 <div align = "justify"> 
-  ![image](assets/Prob_sol.png)
+![image](assets/Prob_sol.png)
 </div>
 
 
