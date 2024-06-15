@@ -9,17 +9,10 @@ title: Home
 <br>
 <div align = "justify">
   
-1. A Source Curated Social Platform
-A source curated social platform designed exclusively for:
+### Dedicated News Platform
+A source curated social platform designed exclusively for Publishers, News channels and Journalists; This platform allows these professionals to post social media-like updates and short-form video content without the need to compete with other niches. By creating a dedicated space for news-related content, it ensures that information remains relevant, focused, and accessible to those who seek it.
 
-Publishers
-News channels
-Cable channels
-Journalists
-
-This platform allows these professionals to post social media-like updates and short-form video content without the need to compete with other niches. By creating a dedicated space for news-related content, it ensures that information remains relevant, focused, and accessible to those who seek it.
-
-2. Bridging the Engagement Gap with Young Audiences
+### Bridging the Engagement Gap with Young Audiences
 Our platform aims to bridge the gap between critical world happenings and the ways in which young audiences engage with news content. By leveraging short-form video formats and interactive features, we make news more appealing, relatable, and accessible to younger generations. This approach not only keeps them informed but also encourages a deeper understanding and engagement with current events.
 
 
