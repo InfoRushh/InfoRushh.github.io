@@ -5,7 +5,7 @@ title: Home
 
 # InfoRush
 
-## Executive Summary
+### (Executive Summary)
 <br>
 <div align = "justify">
 
