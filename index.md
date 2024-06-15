@@ -15,7 +15,7 @@ A source curated social platform designed exclusively for Publishers, News chann
 ### Bridging the Engagement Gap with Young Audiences
 Our platform aims to bridge the gap between critical world happenings and the ways in which young audiences engage with news content. By leveraging short-form video formats and interactive features, we make news more appealing, relatable, and accessible to younger generations. This approach not only keeps them informed but also encourages a deeper understanding and engagement with current events.
 
-
+<br>
 
 ![image](assets/Prob_sol.png)
 
