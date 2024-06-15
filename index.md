@@ -30,8 +30,10 @@ Our platform aims to bridge the gap between critical world happenings and the wa
 
 
 <br>
-<div align = "justify"> 
 
+
+<div align = "justify"> 
+![image](assets/founders.png)
 
 </div>
 <br>
