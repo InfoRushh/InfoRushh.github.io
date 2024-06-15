@@ -1,8 +1,8 @@
 # site settings
 
-title: Shashwat Adhikari
+title: InfoRush
 description: Personal Website
-taglong: A personal site to spill out my wacky thoughts!
+taglong: A dedicated social platform that bridges the gap between critical news and young audiences by allowing publishers, news channels, and journalists to post short-form video content exclusively.
 tagshort: Jekyll theme
 url: https://shashwatadh.github.io/
 baseurl: ""
@@ -14,7 +14,7 @@ repo: https://github.com/ShashwatAdh/ShashwatAdh.github.io
 author:
   name: Shashwat Adhikari
   email: shashwatmail4@gmail.com
-photo: /assets/Avatar_1.png
+photo: /assets/Logo.jpeg
 
 # build settings
 
