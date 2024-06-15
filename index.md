@@ -18,6 +18,7 @@ Our platform aims to bridge the gap between critical world happenings and the wa
 
 <br>
 </div>
+
 ![image](assets/Prob_sol.png)
 
 
