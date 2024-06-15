@@ -22,7 +22,6 @@ Our platform aims to bridge the gap between critical world happenings and the wa
 
 </div>
 
-# The Long Version
 
 <br>
 <div align = "justify"> 
