@@ -10,6 +10,7 @@ title: Home
 <div align = "justify">
   
 ###Dedicated News Platform
+<br>
 A source curated social platform designed exclusively for Publishers, News channels and Journalists; This platform allows these professionals to post social media-like updates and short-form video content without the need to compete with other niches. By creating a dedicated space for news-related content, it ensures that information remains relevant, focused, and accessible to those who seek it.
 
 ### Bridging the Engagement Gap with Young Audiences
