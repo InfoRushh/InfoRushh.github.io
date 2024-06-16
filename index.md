@@ -37,7 +37,7 @@ Our platform aims to bridge the gap between critical world happenings and the wa
 
 This proof-of-concept example (work in progress) demonstrates how our LLM identified connections between Canada, New Zealand, and France, where a trade dispute between Canada and New Zealand led to new possible negotiations between Canada and France.
 
-![image](assets/Problems.png)
+![image](assets/World.png)
 
 <br>
 
