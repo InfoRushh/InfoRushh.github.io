@@ -36,11 +36,10 @@ Our platform aims to bridge the gap between critical world happenings and the wa
 ## We aim to create an interactive map that connects news articles based on geopolitical, financial, and other relevant links, enabling users to visualize and understand the global consequences of events and actions.
 
 
-
+---
 ![image](assets/World.png)
 This proof-of-concept example (work in progress) demonstrates how our LLM identified connections between Canada, New Zealand, and France, where a trade dispute between Canada and New Zealand led to new possible negotiations between Canada and France.
-
-
+---
 
 <br>
 
